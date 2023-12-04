@@ -1,4 +1,4 @@
-name: Deoploy to PyPI and Docker Hub
+name: Deploy to Docker Hub
 
 on:
   release:
